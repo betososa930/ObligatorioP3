@@ -10,7 +10,7 @@ namespace Obligatorio
     {
         private int tiempoFB;
         private List<Tarea> tareas;
-
+        private int idFabricado;
         public int TiempoFB
         {
             set { this.tiempoFB = value; }

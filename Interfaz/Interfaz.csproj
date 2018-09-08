@@ -109,7 +109,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Programacion 3\Practicos\ObligatorioP3\Obligatorio.csproj">
+    <ProjectReference Include="..\ObligatorioP3\Obligatorio.csproj">
       <Project>{20b9b2a5-8175-4202-aedd-a910b18ce954}</Project>
       <Name>Obligatorio</Name>
     </ProjectReference>

@@ -12,3 +12,6 @@
 C:\Users\alber\OneDrive\Documents\GitHub\ObligatorioP3\ObligatorioP3\bin\Debug\Obligatorio.exe.config
 C:\Users\alber\OneDrive\Documents\GitHub\ObligatorioP3\ObligatorioP3\obj\Debug\Obligatorio.exe
 C:\Users\alber\OneDrive\Documents\GitHub\ObligatorioP3\ObligatorioP3\obj\Debug\Obligatorio.pdb
+\\Mac\Documents\GitHub\ObligatorioP3\ObligatorioP3\bin\Debug\Obligatorio.exe.config
+\\Mac\Documents\GitHub\ObligatorioP3\ObligatorioP3\obj\Debug\Obligatorio.exe
+\\Mac\Documents\GitHub\ObligatorioP3\ObligatorioP3\obj\Debug\Obligatorio.pdb
