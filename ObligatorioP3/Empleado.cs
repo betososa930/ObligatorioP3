@@ -13,6 +13,7 @@ namespace Obligatorio
     class Empleado : Persistente, IActiveRecord<Empleado>
     {
         private string nombre;
+        private int idEmpleado;
 
         public string Nombre
         {
@@ -26,6 +27,12 @@ namespace Obligatorio
         {
             get { return contrasenia; }
             set { contrasenia = value; }
+        }
+
+        public int IdEmpleado
+        {
+            get { return idEmpleado; }
+            set { idEmpleado = value; }
         }
 
         private string mail;        

@@ -21,6 +21,12 @@ namespace Obligatorio
             set { this.tareas = value; }
             get { return this.tareas; }
         }
+        public int IdFabricado
+        {
+            set { this.idFabricado = value; }
+            get { return this.idFabricado; }
+        }
+
 
 
     }

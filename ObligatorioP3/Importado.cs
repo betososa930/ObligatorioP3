@@ -10,7 +10,9 @@ namespace Obligatorio
     {
         private string pais;
         private int cantMin;
+        private int idImportado;
         public string Pais
+
         {
             set { this.pais = value; }
             get { return this.pais; }
@@ -19,6 +21,12 @@ namespace Obligatorio
         {
             set { this.cantMin = value; }
             get { return this.cantMin; }
+        }
+
+        public int IdImportado
+        {
+            set { this.idImportado = value; }
+            get { return this.idImportado; }
         }
 
 
