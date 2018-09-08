@@ -1,0 +1,11 @@
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\bin\Debug\Obligatorio.exe.config
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\bin\Debug\Obligatorio.exe
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\bin\Debug\Obligatorio.pdb
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\obj\Debug\Obligatorio.exe
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\obj\Debug\Obligatorio.pdb
+\\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\bin\Debug\Obligatorio.exe.config
+\\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\obj\Debug\Obligatorio.exe
+\\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\obj\Debug\Obligatorio.pdb
+\\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\bin\Debug\Obligatorio.exe
+\\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\bin\Debug\Obligatorio.pdb

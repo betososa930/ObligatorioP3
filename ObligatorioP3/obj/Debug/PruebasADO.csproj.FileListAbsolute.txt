@@ -1,0 +1,15 @@
+d:\dentone\PruebasADO\PruebasADO\bin\Debug\PruebasADO.exe.config
+d:\dentone\PruebasADO\PruebasADO\bin\Debug\PruebasADO.exe
+d:\dentone\PruebasADO\PruebasADO\bin\Debug\PruebasADO.pdb
+d:\dentone\PruebasADO\PruebasADO\obj\Debug\PruebasADO.csprojResolveAssemblyReference.cache
+d:\dentone\PruebasADO\PruebasADO\obj\Debug\PruebasADO.exe
+d:\dentone\PruebasADO\PruebasADO\obj\Debug\PruebasADO.pdb
+D:\Plinio\P3\Ago 2018\PruebasADO\PruebasADO\bin\Debug\PruebasADO.exe.config
+D:\Plinio\P3\Ago 2018\PruebasADO\PruebasADO\obj\Debug\PruebasADO.exe
+D:\Plinio\P3\Ago 2018\PruebasADO\PruebasADO\obj\Debug\PruebasADO.pdb
+D:\Plinio\P3\Ago 2018\PruebasADO\PruebasADO\bin\Debug\PruebasADO.exe
+D:\Plinio\P3\Ago 2018\PruebasADO\PruebasADO\bin\Debug\PruebasADO.pdb
+D:\Plinio\P3\Ago 2018\PruebasADO\PruebasADO\obj\Debug\PruebasADO.csprojResolveAssemblyReference.cache
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\bin\Debug\PruebasADO.exe.config
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\obj\Debug\PruebasADO.exe
+\\Mac\Documents\Programacion 3\Practicos\PruebasADO\obj\Debug\PruebasADO.pdb
