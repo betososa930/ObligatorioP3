@@ -9,3 +9,6 @@
 \\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\obj\Debug\Obligatorio.pdb
 \\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\bin\Debug\Obligatorio.exe
 \\Mac\Documents\Programacion 3\Practicos\ObligatorioP3\bin\Debug\Obligatorio.pdb
+C:\Users\alber\OneDrive\Documents\GitHub\ObligatorioP3\ObligatorioP3\bin\Debug\Obligatorio.exe.config
+C:\Users\alber\OneDrive\Documents\GitHub\ObligatorioP3\ObligatorioP3\obj\Debug\Obligatorio.exe
+C:\Users\alber\OneDrive\Documents\GitHub\ObligatorioP3\ObligatorioP3\obj\Debug\Obligatorio.pdb
